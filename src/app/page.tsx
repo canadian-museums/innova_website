@@ -531,10 +531,12 @@ export default function Home() {
               <p className="text-lg sm:text-xl md:text-2xl text-muted-foreground max-w-4xl mx-auto leading-relaxed mb-12 sm:mb-16">
                 {translations.contact.content}
               </p>
-              <Button className="px-8 sm:px-12 py-4 sm:py-6 text-lg sm:text-xl font-semibold bg-primary text-primary-foreground hover:bg-primary/90 transition-all">
-                {translations.contact.buttonText}
-              </Button>
-            </div>
+              <a 
+  href="mailto:info@canadian-museums.ca" 
+  className="inline-flex items-center justify-center px-12 py-6 text-xl font-semibold bg-white text-black hover:bg-gray-200 transition-all rounded-md"
+>
+  Contact Us
+</a>
           </div>
         </section>
       </main>

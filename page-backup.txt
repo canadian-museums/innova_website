@@ -1,0 +1,2 @@
+      content: [
+        "mAIseums™ is the world's first Cultural Deep AI™, designed to activate the latent intelligence embedded in museums, archives, and cultural datasets.",

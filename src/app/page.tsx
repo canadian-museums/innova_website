@@ -537,9 +537,6 @@ export default function Home() {
 >
   Contact Us
 </a>
-          </div>
-        </section>
-      </main>
 
       {/* Footer */}
       <footer className="mt-auto bg-card border-t border-border py-12 sm:py-16">
@@ -559,6 +556,4 @@ export default function Home() {
           </div>
         </div>
       </footer>
-    </div>
   )
-}
